@@ -25,8 +25,21 @@
 ##### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=henriRBT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriRBT/henriRBT/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriRBT/henriRBT/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henriRBT/henriRBT/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=henriRBT&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -59,14 +72,4 @@
 ##### My Github Stats
 ![Henri GitHub stats](https://github-readme-stats.vercel.app/api?username=henriRBT&show_icons=true&theme=shadow_blue) -->
 
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriRBT/henriRBT/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriRBT/henriRBT/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henriRBT/henriRBT/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
