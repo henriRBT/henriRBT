@@ -15,12 +15,14 @@
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" >
 
 ##### 📊 GitHub Stats:
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=henriRBT&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=henriRBT&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriRBT&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=henriRBT&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=henriRBT&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriRBT&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ##### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=henriRBT&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
